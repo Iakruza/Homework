@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is DECD-C89A
+
+ Directory of C:\Users\bluaz\OneDrive\Documents\Git homework
+
+04/27/2022  05:47 PM    <DIR>          .
+04/27/2022  05:47 PM    <DIR>          ..
+04/27/2022  05:47 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  82,396,405,760 bytes free
+
+changing something
